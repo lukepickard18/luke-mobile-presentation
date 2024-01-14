@@ -9,6 +9,6 @@ It is a toolbox of useful parts and components for your desired application, tha
 
 In The words of React Native Elements official documentation, "The aim of React Native Elements is to provide an all-in-one UI kit for creating apps in react native.
 There are many great ui components made by developers all around open source. React Native Elements takes the hassle of assembling these packages together by giving
-you a ready made kit with consistent api and look and feel." React Native Elements. (n.d.). The aim of React Native Elements is to provide an all-in-one UI kit for creating apps in react native.
-Retrieved 15/01/2024, from [https://reactnativeelements.com/docs](url)
+you a ready made kit with consistent api and look and feel."_ React Native Elements. (n.d.). The aim of React Native Elements is to provide an all-in-one UI kit for creating apps in react native.
+Retrieved 15/01/2024, from [https://reactnativeelements.com/docs](url)_
 
