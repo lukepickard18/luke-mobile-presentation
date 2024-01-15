@@ -48,7 +48,7 @@ As you can see in the image above it is a simple layout using View, Text, and Bu
 
 In the above image, it shows how the theme is initialized. The constant variable 'theme' can withhold styling and color values for each theme.
 In this example the objects are empty and the colours are defaulted to black and white themes - which can sometimes be all you need.
-It is simple to understand the logic as all that is needed is to import a component, place it within the app's return statement, and wrap it with the <Themeprovider>.
+It is simple to understand the logic as all that is needed is to import a component, place it within the app's return statement, and wrap it with the ``` <Themeprovider> ```.
 
 This then allows your component to make use of the makeStyles component from the UI library and assign it values based on what theme is selected.
 
