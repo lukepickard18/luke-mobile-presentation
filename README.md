@@ -1,8 +1,7 @@
 # luke-mobile-presentation
 
 # Presentation URL
-[https://otagopoly-my.sharepoint.com/:v:/g/personal/pickli1_student_op_ac_nz/Eb7EBGvoPZBKrIUEMEuDCAoBC49MQklb12c7TuoNHANYzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=k89Vj1
-](url)
+https://otagopoly-my.sharepoint.com/:v:/g/personal/pickli1_student_op_ac_nz/Eb7EBGvoPZBKrIUEMEuDCAoBC49MQklb12c7TuoNHANYzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=828qpN
 ## UI Library Of Choice - React Native Elements.
 
 ### Overview - A Brief Description of React Native Elements.
