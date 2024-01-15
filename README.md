@@ -60,5 +60,34 @@ The result is:
 
 ![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/b7ba0cf7-e42b-4fd4-8ad6-5c5835e0c7cb)
 
+#### 2 - AirbnbRating Component.
+This next code snippet gives an insight into one of many great and useful components within the library.
+*React Native Elements. (n.d.). Installation. Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/airbnbrating](url)*
+
+This component provides many options for setting up a review system. You can adjust the size and default rating of such a review.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/63c4b6b1-3f5d-4fa4-9f55-8e3ca658f7d1)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/b07d52fb-a93a-480f-8254-4a33a2c793a7)
+
+You can achieve this with the following.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/2954c668-e828-495f-827b-f56e820c4942)
+
+The most impressive feature of this review component is that you can add labels for each level of stars very easily
+allowing you to make an interactive and visually appealing component.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/60b837e6-5dbc-4fa7-b44d-cb214bdb3bc3)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/d2c7a0dd-20d2-4aa4-94db-eed266cef45f)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/e775479a-0423-4b09-879e-544002aa93a9)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/e2245179-0efd-4e6a-9416-6c61ae78b551)
+
+
+
+
+
 
 
