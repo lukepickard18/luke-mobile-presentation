@@ -62,7 +62,7 @@ The result is:
 
 #### 2 - AirbnbRating Component.
 This next code snippet gives an insight into one of many great and useful components within the library.
-*React Native Elements. (n.d.). Installation. Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/airbnbrating](url)*
+*React Native Elements. (n.d.). Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/airbnbrating](url)*
 
 This component provides many options for setting up a review system. You can adjust the size and default rating of such a review.
 
@@ -88,7 +88,7 @@ allowing you to make an interactive and visually appealing component.
 
 #### 3 - Pricing Card Component.
 Another wonderfully useful component. The pricing card allows for an extremely appealing layout with simple customization.
-*React Native Elements. (n.d.). Installation. Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/pricingcard](url)*
+*React Native Elements. (n.d.). Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/pricingcard](url)*
 
 I have taken the snippet provided from the documentation and slightly modified it as a mock-up for an airline business.
 
@@ -102,6 +102,30 @@ Wrapping this component in a scrollview makes an extremely appealing application
 ![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/a2ee5bca-18a3-436b-aa30-074703adc9e9)
 
 ![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/158c1781-b0ec-4260-b6ac-88c247ebc9b4)
+
+
+#### 4 - Bottom Sheet Component. 
+The bottom sheet component is in my opinion one of the most useful and versatile ones. It can have many uses.
+I have once again slightly modified the provided code snippet. In this scenario, I have used it as an appealing pricing list.
+However, it would also be extremely useful for navigation as it is compatible with the onpress hook.
+*React Native Elements. (n.d.). Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/bottomsheet](url)*
+
+It is a slightly more complex code snippet incorporating a dynamic list array for the bottom sheet. However, this does make it very customizable.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/7e7bd8ce-d2e7-4921-bd11-18b61e40cfdc)
+
+The snippet then simply maps through such a list array to complete the functionality.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/e0bb16b7-fa00-4724-a6db-37ed5431b48c)
+
+The results:
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/b24b8da1-8ae6-4dfa-8486-2cb7e410f57b)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/711466e9-6d1a-4a8e-802d-7fc55632efec)
+
+
+
 
 
 
