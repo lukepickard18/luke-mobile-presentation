@@ -125,6 +125,23 @@ The results:
 ![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/711466e9-6d1a-4a8e-802d-7fc55632efec)
 
 
+#### 5 - Input Component.
+*React Native Elements. (n.d.). Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/input](url)*
+
+An extremely common and useful component. The input. Has any number of uses as I will show shortly.
+React Native Elements take that statement to a new extreme. Making it a streamlined process to easily produce
+many different input types for different scenarios. This is such a time saver for app developers and can allow
+less experienced developers to prosper when making an app.
+
+The code snippet is simple and easy to understand.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/e920600a-660b-4491-b9f1-1537657aa0aa)
+
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/778ea4b9-4fd9-4931-8e32-f7ef1028604f)
+
+As you can see in the image above this snippet shows off the many uses of this component. I believe this is most certainly
+one of the most seamless and useful components in the library and will be using it in the future.
 
 
 
