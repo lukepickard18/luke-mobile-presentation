@@ -86,6 +86,27 @@ allowing you to make an interactive and visually appealing component.
 ![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/e2245179-0efd-4e6a-9416-6c61ae78b551)
 
 
+#### 3 - Pricing Card Component.
+Another wonderfully useful component. The pricing card allows for an extremely appealing layout with simple customization.
+*React Native Elements. (n.d.). Installation. Retrieved January 15, 2024, from [https://reactnativeelements.com/docs/components/pricingcard](url)*
+
+I have taken the snippet provided from the documentation and slightly modified it as a mock-up for an airline business.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/7916a29a-a506-4f32-ac3c-dc59b84650bd)
+
+This component has great customization due to its simple nature of setting a color, price, title, info, and a button that includes one of the many great icons.
+Wrapping this component in a scrollview makes an extremely appealing application come to life. You can also link in the styling with a theme as mentioned before.
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/f5da8b7c-adeb-4278-bb1d-ab34695f2991)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/a2ee5bca-18a3-436b-aa30-074703adc9e9)
+
+![image](https://github.com/lukepickard18/luke-mobile-presentation/assets/83677419/158c1781-b0ec-4260-b6ac-88c247ebc9b4)
+
+
+
+
+
 
 
 
